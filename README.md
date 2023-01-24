@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things development, specially PHP
 - 🌱 I’m currently learning all kinds of new things
 - 💞️ I’m looking to collaborate on PHP open source projects
-- 📫 How to reach me: so.oostenbrink@gmail.com
+- 📫 How to reach me: phoundationorg@gmail.com
 
 <!---
 phoenixz/phoenixz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
